@@ -1,4 +1,6 @@
-# AOB_Photos
+# AOB_Photos 
+[http://web.engr.oregonstate.edu/~acuarioj/AOB_Photos/home.html](AOB_Photos)
+
 ## About the Project
 
 This project was our portfolio assignment for our Web Development course. We were given a simple task to use HTML/CSS and JavaScript to build a simple website.
